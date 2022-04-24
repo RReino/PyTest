@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cc2c690-c77b-48a3-b188-0c8f32b76e8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/python-app.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/python-app.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650457211599</updated>
       <workItem from="1650457213543" duration="1743000" />
-      <workItem from="1650794232384" duration="639000" />
+      <workItem from="1650794232384" duration="1626000" />
     </task>
     <servers />
   </component>
